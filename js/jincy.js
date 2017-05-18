@@ -495,7 +495,7 @@ $("#find-recipe").on("click", function(event) {
             console.log(err);
         },
         beforeSend: function(xhr) {
-            xhr.setRequestHeader("X-Mashape-Authorization", "DkuFs3Z8eRmshBsXlCBx4k4DtVVQp1yqSBNjsnQK6GEBL5cHfT");
+            xhr.setRequestHeader("X-Mashape-Authorization", "6pv84CSAfDmshDPxZRcQJRLKHBjVp165Uy6jsnBvn0GxzcaEYj");
         }
     });
 
