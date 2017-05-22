@@ -19,6 +19,7 @@ Pantry Delish has a home page with a login for existing users to log in. New use
 Logged in users can save recipes to their accounts and the recipe link and image gets saved to Firebase database.<br>
 
 All users can search for recipes and instructional videos by entering the ingredients thay have in their pantry on the Home page. <br>
+![alt tag](images/desk2.jpg)
 
 ## <a name="install"></a>Installation
 
