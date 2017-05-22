@@ -12,7 +12,7 @@ API: Spoonacular API, Youtube API<br/>
 
 ## <a name="features"></a>Features
 
-![alt tag](http://g.recordit.co/2dUyo5Ondx.gif)
+![alt tag](images/desk1.jpg)
 
 Pantry Delish has a home page with a login for existing users to log in. New users can use the Sign up link on the login page to create an account<br>
 
